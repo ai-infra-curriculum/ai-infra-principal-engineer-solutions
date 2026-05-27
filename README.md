@@ -11,6 +11,10 @@ If you came expecting `make up && make test`, you are in the wrong
 repo. The right repo is [`ai-infra-engineer-solutions`](https://github.com/ai-infra-curriculum/ai-infra-engineer-solutions)
 or [`ai-infra-senior-engineer-solutions`](https://github.com/ai-infra-curriculum/ai-infra-senior-engineer-solutions).
 
+## What's new — 2026-05-27
+
+Module-level `SOLUTION.md` design-rationale docs for all 5 modules (mod-501 technical-strategy, mod-502 mentorship-leadership, mod-503 cross-org-initiative, mod-504 open-source-community, mod-505 long-term-technical-bets). Each doc explains how the principal-engineer lens differs from the principal-architect lens, what the strategic deliverables (case study, strategy memo, stakeholder map, roadmap, presentation) should actually look like, and where most senior engineers get it wrong the first few times. Audit score: 45 → 55.
+
 ## Track Overview
 
 | Track Tier | Level | Repo |
