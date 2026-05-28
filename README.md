@@ -108,3 +108,9 @@ in the engineer / senior-engineer repos instead.
 ## License
 
 See [`LICENSE`](LICENSE).
+
+
+---
+
+<!-- aicg:maintained-by -->
+Maintained by [VeriSwarm.ai](https://veriswarm.ai)
