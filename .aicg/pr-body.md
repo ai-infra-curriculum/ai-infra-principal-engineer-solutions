@@ -1,14 +1,14 @@
 ## AICG Work Item
 
-- Work ID: `fill-project-02-platform-integration-solution`
-- Project: `project-02-platform-integration`
+- Work ID: `fill-project-01-distributed-training-solution`
+- Project: `project-01-distributed-training`
 - Type: `project_solution_gap`
 
 ## Audit Summary
 
 - Status: `fail`
 - Errors: `4`
-- Warnings: `1`
+- Warnings: `0`
 
 ## Validation Summary
 
@@ -18,5 +18,5 @@
 ## Rollback
 
 ```bash
-git checkout main && git branch -D aicg/2026-05-30/ai-infra-principal-engineer-solutions/fill-project-02-platform-integration-solution
+git checkout main && git branch -D aicg/2026-05-30/ai-infra-principal-engineer-solutions/fill-project-01-distributed-training-solution
 ```

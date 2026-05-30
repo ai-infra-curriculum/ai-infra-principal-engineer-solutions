@@ -4,7 +4,7 @@
       "status": "pass"
     },
     "placeholder_scan": {
-      "finding_count": 1,
+      "finding_count": 0,
       "status": "pass"
     },
     "project_parity": {
@@ -18,10 +18,10 @@
   },
   "gaps": [
     {
-      "expected_path": "projects/project-01-distributed-training",
-      "learning_path": "projects/project-01-distributed-training",
-      "message": "Missing solution project directory for project-01-distributed-training.",
-      "project_id": "project-01-distributed-training",
+      "expected_path": "projects/project-02-platform-integration",
+      "learning_path": "projects/project-02-platform-integration",
+      "message": "Missing solution project directory for project-02-platform-integration.",
+      "project_id": "project-02-platform-integration",
       "severity": "error",
       "type": "missing_solution_project"
     },
@@ -48,17 +48,9 @@
       "project_id": "project-05-technical-leadership",
       "severity": "error",
       "type": "missing_solution_project"
-    },
-    {
-      "excerpt": "| Ownership | \"TBD\" or \"shared.\" | Single owner named. | Single owner + RACI + exec sponsorship recorded. |",
-      "line": 267,
-      "message": "Found todo marker.",
-      "path": "projects/project-02-platform-integration/SOLUTION.md",
-      "severity": "warning",
-      "type": "todo"
     }
   ],
-  "generated_at": "2026-05-30T20:05:39Z",
+  "generated_at": "2026-05-30T19:08:03Z",
   "modules": [
     {
       "exercise_count": 5,
@@ -515,30 +507,30 @@
   },
   "projects": [
     {
+      "found_artifact": "projects/project-01-distributed-training/SOLUTION.md",
+      "gaps": [],
+      "learning_path": "projects/project-01-distributed-training",
+      "project_id": "project-01-distributed-training",
+      "solution_path": "projects/project-01-distributed-training",
+      "status": "ok",
+      "title": "Project 01: Company-Wide Distributed Training Framework"
+    },
+    {
       "found_artifact": null,
       "gaps": [
         {
-          "expected_path": "projects/project-01-distributed-training",
-          "learning_path": "projects/project-01-distributed-training",
-          "message": "Missing solution project directory for project-01-distributed-training.",
-          "project_id": "project-01-distributed-training",
+          "expected_path": "projects/project-02-platform-integration",
+          "learning_path": "projects/project-02-platform-integration",
+          "message": "Missing solution project directory for project-02-platform-integration.",
+          "project_id": "project-02-platform-integration",
           "severity": "error",
           "type": "missing_solution_project"
         }
       ],
-      "learning_path": "projects/project-01-distributed-training",
-      "project_id": "project-01-distributed-training",
-      "solution_path": null,
-      "status": "gap",
-      "title": "Project 01: Company-Wide Distributed Training Framework"
-    },
-    {
-      "found_artifact": "projects/project-02-platform-integration/SOLUTION.md",
-      "gaps": [],
       "learning_path": "projects/project-02-platform-integration",
       "project_id": "project-02-platform-integration",
-      "solution_path": "projects/project-02-platform-integration",
-      "status": "ok",
+      "solution_path": null,
+      "status": "gap",
       "title": "Project 02: Cross-Team Platform Integration"
     },
     {
@@ -611,11 +603,11 @@
   },
   "summary": {
     "error_count": 4,
-    "gap_count": 5,
+    "gap_count": 4,
     "module_count": 5,
     "project_count": 5,
     "status": "fail",
-    "warning_count": 1
+    "warning_count": 0
   },
   "workspace": "/home/rook/ai-infra-curriculum"
 }

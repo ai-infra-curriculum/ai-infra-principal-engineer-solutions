@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-30T20:05:39Z",
+  "generated_at": "2026-05-30T19:08:03Z",
   "repo": {
     "has_git": true,
     "kind": "solutions",
@@ -15,14 +15,14 @@
       "actions": [
         {
           "findings": [],
-          "path": "projects/project-02-platform-integration",
+          "path": "projects/project-01-distributed-training",
           "quality": null,
           "status": "ok",
           "type": "create_directory"
         },
         {
           "findings": [],
-          "path": "projects/project-02-platform-integration/SOLUTION.md",
+          "path": "projects/project-01-distributed-training/SOLUTION.md",
           "quality": null,
           "status": "ok",
           "type": "write_solution"
@@ -31,7 +31,7 @@
       "finding_count": 0,
       "findings": [],
       "status": "verified",
-      "work_id": "fill-project-02-platform-integration-solution"
+      "work_id": "fill-project-01-distributed-training-solution"
     }
   ]
 }

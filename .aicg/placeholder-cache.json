@@ -12,7 +12,7 @@
     },
     "CURRICULUM.md": {
       "findings": [],
-      "mtime_ns": 1780171539065834656,
+      "mtime_ns": 1780168083651597101,
       "size": 488
     },
     "LEARNING_GUIDE.md": {
@@ -37,7 +37,7 @@
     },
     "VERSIONS.md": {
       "findings": [],
-      "mtime_ns": 1780171539065834656,
+      "mtime_ns": 1780168083651597101,
       "size": 241
     },
     "guides/README.md": {
@@ -230,19 +230,10 @@
       "mtime_ns": 1780083792786189567,
       "size": 64
     },
-    "projects/project-02-platform-integration/SOLUTION.md": {
-      "findings": [
-        {
-          "excerpt": "| Ownership | \"TBD\" or \"shared.\" | Single owner named. | Single owner + RACI + exec sponsorship recorded. |",
-          "line": 267,
-          "message": "Found todo marker.",
-          "path": "projects/project-02-platform-integration/SOLUTION.md",
-          "severity": "warning",
-          "type": "todo"
-        }
-      ],
-      "mtime_ns": 1780171528365883571,
-      "size": 18581
+    "projects/project-01-distributed-training/SOLUTION.md": {
+      "findings": [],
+      "mtime_ns": 1780168079227622193,
+      "size": 45488
     },
     "resources/README.md": {
       "findings": [],
@@ -250,6 +241,6 @@
       "size": 85
     }
   },
-  "generated_at": "2026-05-30T20:05:39Z",
+  "generated_at": "2026-05-30T19:08:03Z",
   "schema_version": 1
 }
