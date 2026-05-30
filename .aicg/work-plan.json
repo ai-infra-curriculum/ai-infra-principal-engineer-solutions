@@ -9,7 +9,7 @@
   },
   "backlog_item_count": 0,
   "backlog_items": [],
-  "generated_at": "2026-05-30T23:00:33Z",
+  "generated_at": "2026-05-29T19:45:32Z",
   "repo": {
     "has_git": true,
     "kind": "solutions",
@@ -44,9 +44,10 @@
         "official_first": true,
         "required_default_sources": []
       },
-      "status": "planned",
+      "status": "verified",
       "title": "Author solution artifact for project-01-distributed-training",
       "type": "project_solution_gap",
+      "verified_at": "2026-05-30T19:08:03Z",
       "why": "Learning repo defines a project capstone but the paired solutions repo is missing the canonical SOLUTION.md / README.md / STEP_BY_STEP.md."
     },
     {
@@ -160,10 +161,9 @@
         "official_first": true,
         "required_default_sources": []
       },
-      "status": "verified",
+      "status": "planned",
       "title": "Author solution artifact for project-05-technical-leadership",
       "type": "project_solution_gap",
-      "verified_at": "2026-05-30T23:04:54Z",
       "why": "Learning repo defines a project capstone but the paired solutions repo is missing the canonical SOLUTION.md / README.md / STEP_BY_STEP.md."
     }
   ]

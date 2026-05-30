@@ -18,14 +18,6 @@
   },
   "gaps": [
     {
-      "expected_path": "projects/project-01-distributed-training",
-      "learning_path": "projects/project-01-distributed-training",
-      "message": "Missing solution project directory for project-01-distributed-training.",
-      "project_id": "project-01-distributed-training",
-      "severity": "error",
-      "type": "missing_solution_project"
-    },
-    {
       "expected_path": "projects/project-02-platform-integration",
       "learning_path": "projects/project-02-platform-integration",
       "message": "Missing solution project directory for project-02-platform-integration.",
@@ -48,9 +40,17 @@
       "project_id": "project-04-innovation-poc",
       "severity": "error",
       "type": "missing_solution_project"
+    },
+    {
+      "expected_path": "projects/project-05-technical-leadership",
+      "learning_path": "projects/project-05-technical-leadership",
+      "message": "Missing solution project directory for project-05-technical-leadership.",
+      "project_id": "project-05-technical-leadership",
+      "severity": "error",
+      "type": "missing_solution_project"
     }
   ],
-  "generated_at": "2026-05-30T23:04:54Z",
+  "generated_at": "2026-05-30T19:08:03Z",
   "modules": [
     {
       "exercise_count": 5,
@@ -507,21 +507,12 @@
   },
   "projects": [
     {
-      "found_artifact": null,
-      "gaps": [
-        {
-          "expected_path": "projects/project-01-distributed-training",
-          "learning_path": "projects/project-01-distributed-training",
-          "message": "Missing solution project directory for project-01-distributed-training.",
-          "project_id": "project-01-distributed-training",
-          "severity": "error",
-          "type": "missing_solution_project"
-        }
-      ],
+      "found_artifact": "projects/project-01-distributed-training/SOLUTION.md",
+      "gaps": [],
       "learning_path": "projects/project-01-distributed-training",
       "project_id": "project-01-distributed-training",
-      "solution_path": null,
-      "status": "gap",
+      "solution_path": "projects/project-01-distributed-training",
+      "status": "ok",
       "title": "Project 01: Company-Wide Distributed Training Framework"
     },
     {
@@ -579,12 +570,21 @@
       "title": "Project 04: Technical Innovation POC"
     },
     {
-      "found_artifact": "projects/project-05-technical-leadership/SOLUTION.md",
-      "gaps": [],
+      "found_artifact": null,
+      "gaps": [
+        {
+          "expected_path": "projects/project-05-technical-leadership",
+          "learning_path": "projects/project-05-technical-leadership",
+          "message": "Missing solution project directory for project-05-technical-leadership.",
+          "project_id": "project-05-technical-leadership",
+          "severity": "error",
+          "type": "missing_solution_project"
+        }
+      ],
       "learning_path": "projects/project-05-technical-leadership",
       "project_id": "project-05-technical-leadership",
-      "solution_path": "projects/project-05-technical-leadership",
-      "status": "ok",
+      "solution_path": null,
+      "status": "gap",
       "title": "Project 05: Technical Leadership Capstone"
     }
   ],

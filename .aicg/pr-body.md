@@ -1,7 +1,7 @@
 ## AICG Work Item
 
-- Work ID: `fill-project-05-technical-leadership-solution`
-- Project: `project-05-technical-leadership`
+- Work ID: `fill-project-01-distributed-training-solution`
+- Project: `project-01-distributed-training`
 - Type: `project_solution_gap`
 
 ## Audit Summary
@@ -18,5 +18,5 @@
 ## Rollback
 
 ```bash
-git checkout main && git branch -D aicg/2026-05-30/ai-infra-principal-engineer-solutions/fill-project-05-technical-leadership-solution
+git checkout main && git branch -D aicg/2026-05-30/ai-infra-principal-engineer-solutions/fill-project-01-distributed-training-solution
 ```
