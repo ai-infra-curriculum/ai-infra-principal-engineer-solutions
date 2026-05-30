@@ -1,0 +1,38 @@
+{
+  "already_present": [],
+  "curriculum_appended": {
+    "already_present": [],
+    "appended": [
+      "fill-project-02-platform-integration-solution"
+    ],
+    "present": true
+  },
+  "curriculum_suggestions": [
+    {
+      "scope": "project-02-platform-integration",
+      "suggestion": "Update `CURRICULUM.md` so the row for `project-02-platform-integration` reflects the newly-landed content. Schema varies per repo; this is a suggested edit, not an automated change.",
+      "work_id": "fill-project-02-platform-integration-solution"
+    }
+  ],
+  "generated_at": "2026-05-30T20:05:39Z",
+  "repo": {
+    "has_git": true,
+    "kind": "solutions",
+    "name": "ai-infra-principal-engineer-solutions",
+    "path": "/home/rook/ai-infra-curriculum/ai-infra-principal-engineer-solutions",
+    "track": "principal-engineer"
+  },
+  "schema_version": 1,
+  "status": "updated",
+  "updated": [
+    {
+      "date": "2026-05-30",
+      "module": null,
+      "project": "project-02-platform-integration",
+      "title": "Author solution artifact for project-02-platform-integration",
+      "type": "project_solution_gap",
+      "work_id": "fill-project-02-platform-integration-solution"
+    }
+  ],
+  "versions_path": "VERSIONS.md"
+}

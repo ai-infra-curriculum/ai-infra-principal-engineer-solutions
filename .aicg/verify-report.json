@@ -1,0 +1,37 @@
+{
+  "generated_at": "2026-05-30T20:05:39Z",
+  "repo": {
+    "has_git": true,
+    "kind": "solutions",
+    "name": "ai-infra-principal-engineer-solutions",
+    "path": "/home/rook/ai-infra-curriculum/ai-infra-principal-engineer-solutions",
+    "track": "principal-engineer"
+  },
+  "schema_version": 1,
+  "status": "verified",
+  "work_item_count": 1,
+  "work_items": [
+    {
+      "actions": [
+        {
+          "findings": [],
+          "path": "projects/project-02-platform-integration",
+          "quality": null,
+          "status": "ok",
+          "type": "create_directory"
+        },
+        {
+          "findings": [],
+          "path": "projects/project-02-platform-integration/SOLUTION.md",
+          "quality": null,
+          "status": "ok",
+          "type": "write_solution"
+        }
+      ],
+      "finding_count": 0,
+      "findings": [],
+      "status": "verified",
+      "work_id": "fill-project-02-platform-integration-solution"
+    }
+  ]
+}
