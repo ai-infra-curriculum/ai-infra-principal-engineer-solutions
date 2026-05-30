@@ -1,0 +1,246 @@
+{
+  "entries": {
+    "CODE_OF_CONDUCT.md": {
+      "findings": [],
+      "mtime_ns": 1780083792774189070,
+      "size": 10090
+    },
+    "CONTRIBUTING.md": {
+      "findings": [],
+      "mtime_ns": 1780083792774189070,
+      "size": 951
+    },
+    "CURRICULUM.md": {
+      "findings": [],
+      "mtime_ns": 1780168083651597101,
+      "size": 488
+    },
+    "LEARNING_GUIDE.md": {
+      "findings": [],
+      "mtime_ns": 1780083792774189070,
+      "size": 962
+    },
+    "README.md": {
+      "findings": [],
+      "mtime_ns": 1780083792774189070,
+      "size": 5536
+    },
+    "SOLUTIONS_INDEX.md": {
+      "findings": [],
+      "mtime_ns": 1780083792774189070,
+      "size": 608
+    },
+    "SOLUTION_OVERVIEW.md": {
+      "findings": [],
+      "mtime_ns": 1780083792774189070,
+      "size": 5044
+    },
+    "VERSIONS.md": {
+      "findings": [],
+      "mtime_ns": 1780168083651597101,
+      "size": 241
+    },
+    "guides/README.md": {
+      "findings": [],
+      "mtime_ns": 1780083792774189070,
+      "size": 116
+    },
+    "modules/README.md": {
+      "findings": [],
+      "mtime_ns": 1780083792774189070,
+      "size": 114
+    },
+    "modules/mod-501-technical-strategy/README.md": {
+      "findings": [],
+      "mtime_ns": 1780083792778189235,
+      "size": 125
+    },
+    "modules/mod-501-technical-strategy/SOLUTION.md": {
+      "findings": [],
+      "mtime_ns": 1780083792778189235,
+      "size": 10024
+    },
+    "modules/mod-501-technical-strategy/exercise-01/README.md": {
+      "findings": [],
+      "mtime_ns": 1780083792778189235,
+      "size": 478
+    },
+    "modules/mod-501-technical-strategy/exercise-02/README.md": {
+      "findings": [],
+      "mtime_ns": 1780083792778189235,
+      "size": 478
+    },
+    "modules/mod-501-technical-strategy/exercise-03/README.md": {
+      "findings": [],
+      "mtime_ns": 1780083792778189235,
+      "size": 478
+    },
+    "modules/mod-501-technical-strategy/exercise-04/README.md": {
+      "findings": [],
+      "mtime_ns": 1780083792778189235,
+      "size": 478
+    },
+    "modules/mod-501-technical-strategy/exercise-05/README.md": {
+      "findings": [],
+      "mtime_ns": 1780083792778189235,
+      "size": 478
+    },
+    "modules/mod-502-mentorship-leadership/README.md": {
+      "findings": [],
+      "mtime_ns": 1780083792778189235,
+      "size": 128
+    },
+    "modules/mod-502-mentorship-leadership/SOLUTION.md": {
+      "findings": [],
+      "mtime_ns": 1780083792778189235,
+      "size": 8584
+    },
+    "modules/mod-502-mentorship-leadership/exercise-01/README.md": {
+      "findings": [],
+      "mtime_ns": 1780083792778189235,
+      "size": 487
+    },
+    "modules/mod-502-mentorship-leadership/exercise-02/README.md": {
+      "findings": [],
+      "mtime_ns": 1780083792778189235,
+      "size": 487
+    },
+    "modules/mod-502-mentorship-leadership/exercise-03/README.md": {
+      "findings": [],
+      "mtime_ns": 1780083792778189235,
+      "size": 487
+    },
+    "modules/mod-502-mentorship-leadership/exercise-04/README.md": {
+      "findings": [],
+      "mtime_ns": 1780083792778189235,
+      "size": 487
+    },
+    "modules/mod-502-mentorship-leadership/exercise-05/README.md": {
+      "findings": [],
+      "mtime_ns": 1780083792778189235,
+      "size": 487
+    },
+    "modules/mod-503-cross-org-initiative/README.md": {
+      "findings": [],
+      "mtime_ns": 1780083792782189401,
+      "size": 127
+    },
+    "modules/mod-503-cross-org-initiative/SOLUTION.md": {
+      "findings": [],
+      "mtime_ns": 1780083792782189401,
+      "size": 9521
+    },
+    "modules/mod-503-cross-org-initiative/exercise-01/README.md": {
+      "findings": [],
+      "mtime_ns": 1780083792782189401,
+      "size": 484
+    },
+    "modules/mod-503-cross-org-initiative/exercise-02/README.md": {
+      "findings": [],
+      "mtime_ns": 1780083792782189401,
+      "size": 484
+    },
+    "modules/mod-503-cross-org-initiative/exercise-03/README.md": {
+      "findings": [],
+      "mtime_ns": 1780083792782189401,
+      "size": 484
+    },
+    "modules/mod-503-cross-org-initiative/exercise-04/README.md": {
+      "findings": [],
+      "mtime_ns": 1780083792782189401,
+      "size": 484
+    },
+    "modules/mod-503-cross-org-initiative/exercise-05/README.md": {
+      "findings": [],
+      "mtime_ns": 1780083792782189401,
+      "size": 484
+    },
+    "modules/mod-504-open-source-community/README.md": {
+      "findings": [],
+      "mtime_ns": 1780083792782189401,
+      "size": 128
+    },
+    "modules/mod-504-open-source-community/SOLUTION.md": {
+      "findings": [],
+      "mtime_ns": 1780083792782189401,
+      "size": 9563
+    },
+    "modules/mod-504-open-source-community/exercise-01/README.md": {
+      "findings": [],
+      "mtime_ns": 1780083792782189401,
+      "size": 487
+    },
+    "modules/mod-504-open-source-community/exercise-02/README.md": {
+      "findings": [],
+      "mtime_ns": 1780083792782189401,
+      "size": 487
+    },
+    "modules/mod-504-open-source-community/exercise-03/README.md": {
+      "findings": [],
+      "mtime_ns": 1780083792782189401,
+      "size": 487
+    },
+    "modules/mod-504-open-source-community/exercise-04/README.md": {
+      "findings": [],
+      "mtime_ns": 1780083792782189401,
+      "size": 487
+    },
+    "modules/mod-504-open-source-community/exercise-05/README.md": {
+      "findings": [],
+      "mtime_ns": 1780083792782189401,
+      "size": 487
+    },
+    "modules/mod-505-long-term-technical-bets/README.md": {
+      "findings": [],
+      "mtime_ns": 1780083792782189401,
+      "size": 131
+    },
+    "modules/mod-505-long-term-technical-bets/SOLUTION.md": {
+      "findings": [],
+      "mtime_ns": 1780083792782189401,
+      "size": 10664
+    },
+    "modules/mod-505-long-term-technical-bets/exercise-01/README.md": {
+      "findings": [],
+      "mtime_ns": 1780083792782189401,
+      "size": 496
+    },
+    "modules/mod-505-long-term-technical-bets/exercise-02/README.md": {
+      "findings": [],
+      "mtime_ns": 1780083792786189567,
+      "size": 496
+    },
+    "modules/mod-505-long-term-technical-bets/exercise-03/README.md": {
+      "findings": [],
+      "mtime_ns": 1780083792786189567,
+      "size": 496
+    },
+    "modules/mod-505-long-term-technical-bets/exercise-04/README.md": {
+      "findings": [],
+      "mtime_ns": 1780083792786189567,
+      "size": 496
+    },
+    "modules/mod-505-long-term-technical-bets/exercise-05/README.md": {
+      "findings": [],
+      "mtime_ns": 1780083792786189567,
+      "size": 496
+    },
+    "projects/README.md": {
+      "findings": [],
+      "mtime_ns": 1780083792786189567,
+      "size": 64
+    },
+    "projects/project-01-distributed-training/SOLUTION.md": {
+      "findings": [],
+      "mtime_ns": 1780168079227622193,
+      "size": 45488
+    },
+    "resources/README.md": {
+      "findings": [],
+      "mtime_ns": 1780083792786189567,
+      "size": 85
+    }
+  },
+  "generated_at": "2026-05-30T19:08:03Z",
+  "schema_version": 1
+}

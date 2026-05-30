@@ -1,0 +1,38 @@
+{
+  "already_present": [],
+  "curriculum_appended": {
+    "already_present": [],
+    "appended": [
+      "fill-project-01-distributed-training-solution"
+    ],
+    "present": true
+  },
+  "curriculum_suggestions": [
+    {
+      "scope": "project-01-distributed-training",
+      "suggestion": "Update `CURRICULUM.md` so the row for `project-01-distributed-training` reflects the newly-landed content. Schema varies per repo; this is a suggested edit, not an automated change.",
+      "work_id": "fill-project-01-distributed-training-solution"
+    }
+  ],
+  "generated_at": "2026-05-30T19:08:03Z",
+  "repo": {
+    "has_git": true,
+    "kind": "solutions",
+    "name": "ai-infra-principal-engineer-solutions",
+    "path": "/home/rook/ai-infra-curriculum/ai-infra-principal-engineer-solutions",
+    "track": "principal-engineer"
+  },
+  "schema_version": 1,
+  "status": "updated",
+  "updated": [
+    {
+      "date": "2026-05-30",
+      "module": null,
+      "project": "project-01-distributed-training",
+      "title": "Author solution artifact for project-01-distributed-training",
+      "type": "project_solution_gap",
+      "work_id": "fill-project-01-distributed-training-solution"
+    }
+  ],
+  "versions_path": "VERSIONS.md"
+}
