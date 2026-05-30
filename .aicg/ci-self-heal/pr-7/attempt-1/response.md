@@ -1,0 +1,1 @@
+The edit is in place — `projects/project-04-innovation-poc/SOLUTION.md` line 85–88 has been reflowed so the blockquote line no longer starts with `+ ` (the MD004 trigger). The commit step is being blocked by your permission settings, so I'll leave staging/commit to you. After committing and pushing, the markdownlint job should pass.
