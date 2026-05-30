@@ -89,8 +89,8 @@ seventh. Worked example (illustrative; not a real product):
 >
 > **Timebox:** 6 calendar weeks from kickoff. At week 6, if
 > neither graduate nor kill has fired, the disposition is
-> "inconclusive" and the POC is shelved with a written
-> follow-up question, *not* extended in place.
+> `shelve` with a written follow-up question recording the
+> inconclusive result, *not* `extend` in place.
 
 Two things to notice. First, the unknown is stated in a way
 that an observer can verify — "the answer is yes" or "the answer
