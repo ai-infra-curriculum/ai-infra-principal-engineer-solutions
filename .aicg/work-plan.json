@@ -1,0 +1,170 @@
+{
+  "audit_summary": {
+    "error_count": 5,
+    "gap_count": 5,
+    "module_count": 5,
+    "project_count": 5,
+    "status": "fail",
+    "warning_count": 0
+  },
+  "backlog_item_count": 0,
+  "backlog_items": [],
+  "generated_at": "2026-05-30T21:00:33Z",
+  "repo": {
+    "has_git": true,
+    "kind": "solutions",
+    "name": "ai-infra-principal-engineer-solutions",
+    "path": "/home/rook/ai-infra-curriculum/ai-infra-principal-engineer-solutions",
+    "track": "principal-engineer"
+  },
+  "schema_version": 2,
+  "work_item_count": 5,
+  "work_items": [
+    {
+      "actions": [
+        {
+          "path": "projects/project-01-distributed-training",
+          "type": "create_directory"
+        },
+        {
+          "path": "projects/project-01-distributed-training/SOLUTION.md",
+          "project_id": "project-01-distributed-training",
+          "source_project": "projects/project-01-distributed-training",
+          "type": "write_solution"
+        }
+      ],
+      "exercises": [],
+      "id": "fill-project-01-distributed-training-solution",
+      "priority": 1,
+      "project": "project-01-distributed-training",
+      "repo": "ai-infra-principal-engineer-solutions",
+      "severity": "error",
+      "source_policy": {
+        "needs_research_blocks_merge": true,
+        "official_first": true,
+        "required_default_sources": []
+      },
+      "status": "planned",
+      "title": "Author solution artifact for project-01-distributed-training",
+      "type": "project_solution_gap",
+      "why": "Learning repo defines a project capstone but the paired solutions repo is missing the canonical SOLUTION.md / README.md / STEP_BY_STEP.md."
+    },
+    {
+      "actions": [
+        {
+          "path": "projects/project-02-platform-integration",
+          "type": "create_directory"
+        },
+        {
+          "path": "projects/project-02-platform-integration/SOLUTION.md",
+          "project_id": "project-02-platform-integration",
+          "source_project": "projects/project-02-platform-integration",
+          "type": "write_solution"
+        }
+      ],
+      "exercises": [],
+      "id": "fill-project-02-platform-integration-solution",
+      "priority": 2,
+      "project": "project-02-platform-integration",
+      "repo": "ai-infra-principal-engineer-solutions",
+      "severity": "error",
+      "source_policy": {
+        "needs_research_blocks_merge": true,
+        "official_first": true,
+        "required_default_sources": []
+      },
+      "status": "planned",
+      "title": "Author solution artifact for project-02-platform-integration",
+      "type": "project_solution_gap",
+      "why": "Learning repo defines a project capstone but the paired solutions repo is missing the canonical SOLUTION.md / README.md / STEP_BY_STEP.md."
+    },
+    {
+      "actions": [
+        {
+          "path": "projects/project-03-performance-optimization",
+          "type": "create_directory"
+        },
+        {
+          "path": "projects/project-03-performance-optimization/SOLUTION.md",
+          "project_id": "project-03-performance-optimization",
+          "source_project": "projects/project-03-performance-optimization",
+          "type": "write_solution"
+        }
+      ],
+      "exercises": [],
+      "id": "fill-project-03-performance-optimization-solution",
+      "priority": 3,
+      "project": "project-03-performance-optimization",
+      "repo": "ai-infra-principal-engineer-solutions",
+      "severity": "error",
+      "source_policy": {
+        "needs_research_blocks_merge": true,
+        "official_first": true,
+        "required_default_sources": []
+      },
+      "status": "verified",
+      "title": "Author solution artifact for project-03-performance-optimization",
+      "type": "project_solution_gap",
+      "verified_at": "2026-05-30T21:05:59Z",
+      "why": "Learning repo defines a project capstone but the paired solutions repo is missing the canonical SOLUTION.md / README.md / STEP_BY_STEP.md."
+    },
+    {
+      "actions": [
+        {
+          "path": "projects/project-04-innovation-poc",
+          "type": "create_directory"
+        },
+        {
+          "path": "projects/project-04-innovation-poc/SOLUTION.md",
+          "project_id": "project-04-innovation-poc",
+          "source_project": "projects/project-04-innovation-poc",
+          "type": "write_solution"
+        }
+      ],
+      "exercises": [],
+      "id": "fill-project-04-innovation-poc-solution",
+      "priority": 4,
+      "project": "project-04-innovation-poc",
+      "repo": "ai-infra-principal-engineer-solutions",
+      "severity": "error",
+      "source_policy": {
+        "needs_research_blocks_merge": true,
+        "official_first": true,
+        "required_default_sources": []
+      },
+      "status": "planned",
+      "title": "Author solution artifact for project-04-innovation-poc",
+      "type": "project_solution_gap",
+      "why": "Learning repo defines a project capstone but the paired solutions repo is missing the canonical SOLUTION.md / README.md / STEP_BY_STEP.md."
+    },
+    {
+      "actions": [
+        {
+          "path": "projects/project-05-technical-leadership",
+          "type": "create_directory"
+        },
+        {
+          "path": "projects/project-05-technical-leadership/SOLUTION.md",
+          "project_id": "project-05-technical-leadership",
+          "source_project": "projects/project-05-technical-leadership",
+          "type": "write_solution"
+        }
+      ],
+      "exercises": [],
+      "id": "fill-project-05-technical-leadership-solution",
+      "priority": 5,
+      "project": "project-05-technical-leadership",
+      "repo": "ai-infra-principal-engineer-solutions",
+      "severity": "error",
+      "source_policy": {
+        "needs_research_blocks_merge": true,
+        "official_first": true,
+        "required_default_sources": []
+      },
+      "status": "planned",
+      "title": "Author solution artifact for project-05-technical-leadership",
+      "type": "project_solution_gap",
+      "why": "Learning repo defines a project capstone but the paired solutions repo is missing the canonical SOLUTION.md / README.md / STEP_BY_STEP.md."
+    }
+  ]
+}

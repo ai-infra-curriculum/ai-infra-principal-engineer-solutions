@@ -1,0 +1,38 @@
+{
+  "already_present": [],
+  "curriculum_appended": {
+    "already_present": [],
+    "appended": [
+      "fill-project-03-performance-optimization-solution"
+    ],
+    "present": true
+  },
+  "curriculum_suggestions": [
+    {
+      "scope": "project-03-performance-optimization",
+      "suggestion": "Update `CURRICULUM.md` so the row for `project-03-performance-optimization` reflects the newly-landed content. Schema varies per repo; this is a suggested edit, not an automated change.",
+      "work_id": "fill-project-03-performance-optimization-solution"
+    }
+  ],
+  "generated_at": "2026-05-30T21:05:59Z",
+  "repo": {
+    "has_git": true,
+    "kind": "solutions",
+    "name": "ai-infra-principal-engineer-solutions",
+    "path": "/home/rook/ai-infra-curriculum/ai-infra-principal-engineer-solutions",
+    "track": "principal-engineer"
+  },
+  "schema_version": 1,
+  "status": "updated",
+  "updated": [
+    {
+      "date": "2026-05-30",
+      "module": null,
+      "project": "project-03-performance-optimization",
+      "title": "Author solution artifact for project-03-performance-optimization",
+      "type": "project_solution_gap",
+      "work_id": "fill-project-03-performance-optimization-solution"
+    }
+  ],
+  "versions_path": "VERSIONS.md"
+}
