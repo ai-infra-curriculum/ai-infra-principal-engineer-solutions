@@ -1,0 +1,106 @@
+{
+  "curriculum_index_present": false,
+  "curriculum_md_present": true,
+  "findings": [
+    {
+      "message": "`CURRICULUM.md` does not reference module `mod-501-technical-strategy` that exists on disk.",
+      "path": "CURRICULUM.md#mod-501-technical-strategy",
+      "repo": "ai-infra-principal-engineer-solutions",
+      "severity": "warning",
+      "type": "nav_missing_reference"
+    },
+    {
+      "message": "`CURRICULUM.md` does not reference module `mod-502-mentorship-leadership` that exists on disk.",
+      "path": "CURRICULUM.md#mod-502-mentorship-leadership",
+      "repo": "ai-infra-principal-engineer-solutions",
+      "severity": "warning",
+      "type": "nav_missing_reference"
+    },
+    {
+      "message": "`CURRICULUM.md` does not reference module `mod-503-cross-org-initiative` that exists on disk.",
+      "path": "CURRICULUM.md#mod-503-cross-org-initiative",
+      "repo": "ai-infra-principal-engineer-solutions",
+      "severity": "warning",
+      "type": "nav_missing_reference"
+    },
+    {
+      "message": "`CURRICULUM.md` does not reference module `mod-504-open-source-community` that exists on disk.",
+      "path": "CURRICULUM.md#mod-504-open-source-community",
+      "repo": "ai-infra-principal-engineer-solutions",
+      "severity": "warning",
+      "type": "nav_missing_reference"
+    },
+    {
+      "message": "`CURRICULUM.md` does not reference module `mod-505-long-term-technical-bets` that exists on disk.",
+      "path": "CURRICULUM.md#mod-505-long-term-technical-bets",
+      "repo": "ai-infra-principal-engineer-solutions",
+      "severity": "warning",
+      "type": "nav_missing_reference"
+    }
+  ],
+  "gap_count": 5,
+  "generated_at": "2026-05-29T19:45:32Z",
+  "modules_on_disk": [
+    "mod-501-technical-strategy",
+    "mod-502-mentorship-leadership",
+    "mod-503-cross-org-initiative",
+    "mod-504-open-source-community",
+    "mod-505-long-term-technical-bets"
+  ],
+  "operation": "curriculum_nav_audit",
+  "projects_on_disk": [],
+  "repo": "ai-infra-principal-engineer-solutions",
+  "schema_version": 1,
+  "work_items": [
+    {
+      "details": "`CURRICULUM.md` does not reference module `mod-501-technical-strategy` that exists on disk.",
+      "id": "nav-nav-missing-reference-curriculum-md-mod-501-technical-strategy",
+      "path": "CURRICULUM.md#mod-501-technical-strategy",
+      "repo": "ai-infra-principal-engineer-solutions",
+      "severity": "warning",
+      "subtype": "nav_missing_reference",
+      "title": "`CURRICULUM.md` does not reference module `mod-501-technical-strategy` that exists on disk.",
+      "type": "curriculum_nav_drift"
+    },
+    {
+      "details": "`CURRICULUM.md` does not reference module `mod-502-mentorship-leadership` that exists on disk.",
+      "id": "nav-nav-missing-reference-curriculum-md-mod-502-mentorship-leadership",
+      "path": "CURRICULUM.md#mod-502-mentorship-leadership",
+      "repo": "ai-infra-principal-engineer-solutions",
+      "severity": "warning",
+      "subtype": "nav_missing_reference",
+      "title": "`CURRICULUM.md` does not reference module `mod-502-mentorship-leadership` that exists on disk.",
+      "type": "curriculum_nav_drift"
+    },
+    {
+      "details": "`CURRICULUM.md` does not reference module `mod-503-cross-org-initiative` that exists on disk.",
+      "id": "nav-nav-missing-reference-curriculum-md-mod-503-cross-org-initiative",
+      "path": "CURRICULUM.md#mod-503-cross-org-initiative",
+      "repo": "ai-infra-principal-engineer-solutions",
+      "severity": "warning",
+      "subtype": "nav_missing_reference",
+      "title": "`CURRICULUM.md` does not reference module `mod-503-cross-org-initiative` that exists on disk.",
+      "type": "curriculum_nav_drift"
+    },
+    {
+      "details": "`CURRICULUM.md` does not reference module `mod-504-open-source-community` that exists on disk.",
+      "id": "nav-nav-missing-reference-curriculum-md-mod-504-open-source-community",
+      "path": "CURRICULUM.md#mod-504-open-source-community",
+      "repo": "ai-infra-principal-engineer-solutions",
+      "severity": "warning",
+      "subtype": "nav_missing_reference",
+      "title": "`CURRICULUM.md` does not reference module `mod-504-open-source-community` that exists on disk.",
+      "type": "curriculum_nav_drift"
+    },
+    {
+      "details": "`CURRICULUM.md` does not reference module `mod-505-long-term-technical-bets` that exists on disk.",
+      "id": "nav-nav-missing-reference-curriculum-md-mod-505-long-term-technical-bets",
+      "path": "CURRICULUM.md#mod-505-long-term-technical-bets",
+      "repo": "ai-infra-principal-engineer-solutions",
+      "severity": "warning",
+      "subtype": "nav_missing_reference",
+      "title": "`CURRICULUM.md` does not reference module `mod-505-long-term-technical-bets` that exists on disk.",
+      "type": "curriculum_nav_drift"
+    }
+  ]
+}
