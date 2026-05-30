@@ -82,8 +82,8 @@ seventh. Worked example (illustrative; not a real product):
 > sustained for ≥ 30 minutes on the synthetic shape, with
 > OOM rate ≤ 0.1 % of requests.
 >
-> **Kill criterion:** Either (a) p99 latency exceeds baseline
-> + 40 % at any sustained throughput, or (b) OOM rate exceeds
+> **Kill criterion:** Either (a) p99 latency exceeds baseline by
+> 40 % at any sustained throughput, or (b) OOM rate exceeds
 > 2 %, or (c) we cannot reach 1.0× equivalent throughput at
 > all. Any one of these fires the kill.
 >
