@@ -1,0 +1,613 @@
+{
+  "checks": {
+    "learning_solution_parity": {
+      "status": "pass"
+    },
+    "placeholder_scan": {
+      "finding_count": 0,
+      "status": "pass"
+    },
+    "project_parity": {
+      "project_count": 5,
+      "status": "fail"
+    },
+    "repo_structure": {
+      "finding_count": 0,
+      "status": "pass"
+    }
+  },
+  "gaps": [
+    {
+      "expected_path": "projects/project-01-distributed-training",
+      "learning_path": "projects/project-01-distributed-training",
+      "message": "Missing solution project directory for project-01-distributed-training.",
+      "project_id": "project-01-distributed-training",
+      "severity": "error",
+      "type": "missing_solution_project"
+    },
+    {
+      "expected_path": "projects/project-02-platform-integration",
+      "learning_path": "projects/project-02-platform-integration",
+      "message": "Missing solution project directory for project-02-platform-integration.",
+      "project_id": "project-02-platform-integration",
+      "severity": "error",
+      "type": "missing_solution_project"
+    },
+    {
+      "expected_path": "projects/project-03-performance-optimization",
+      "learning_path": "projects/project-03-performance-optimization",
+      "message": "Missing solution project directory for project-03-performance-optimization.",
+      "project_id": "project-03-performance-optimization",
+      "severity": "error",
+      "type": "missing_solution_project"
+    },
+    {
+      "expected_path": "projects/project-05-technical-leadership",
+      "learning_path": "projects/project-05-technical-leadership",
+      "message": "Missing solution project directory for project-05-technical-leadership.",
+      "project_id": "project-05-technical-leadership",
+      "severity": "error",
+      "type": "missing_solution_project"
+    }
+  ],
+  "generated_at": "2026-05-30T22:04:52Z",
+  "modules": [
+    {
+      "exercise_count": 5,
+      "exercises": [
+        {
+          "exercise_id": "exercise-01",
+          "expected_solution_dir": "modules/mod-501-technical-strategy/exercise-01",
+          "found_artifact": "modules/mod-501-technical-strategy/exercise-01/README.md",
+          "gaps": [],
+          "learning_path": "lessons/mod-501-technical-strategy/exercises/exercise-01-case-study.md",
+          "required_artifacts": [
+            "SOLUTION.md",
+            "STEP_BY_STEP.md",
+            "README.md"
+          ],
+          "slug": "case-study",
+          "status": "ok",
+          "title": "Exercise 01-case-study"
+        },
+        {
+          "exercise_id": "exercise-02",
+          "expected_solution_dir": "modules/mod-501-technical-strategy/exercise-02",
+          "found_artifact": "modules/mod-501-technical-strategy/exercise-02/README.md",
+          "gaps": [],
+          "learning_path": "lessons/mod-501-technical-strategy/exercises/exercise-02-strategy-memo.md",
+          "required_artifacts": [
+            "SOLUTION.md",
+            "STEP_BY_STEP.md",
+            "README.md"
+          ],
+          "slug": "strategy-memo",
+          "status": "ok",
+          "title": "Exercise 02-strategy-memo"
+        },
+        {
+          "exercise_id": "exercise-03",
+          "expected_solution_dir": "modules/mod-501-technical-strategy/exercise-03",
+          "found_artifact": "modules/mod-501-technical-strategy/exercise-03/README.md",
+          "gaps": [],
+          "learning_path": "lessons/mod-501-technical-strategy/exercises/exercise-03-stakeholder-mapping.md",
+          "required_artifacts": [
+            "SOLUTION.md",
+            "STEP_BY_STEP.md",
+            "README.md"
+          ],
+          "slug": "stakeholder-mapping",
+          "status": "ok",
+          "title": "Exercise 03-stakeholder-mapping"
+        },
+        {
+          "exercise_id": "exercise-04",
+          "expected_solution_dir": "modules/mod-501-technical-strategy/exercise-04",
+          "found_artifact": "modules/mod-501-technical-strategy/exercise-04/README.md",
+          "gaps": [],
+          "learning_path": "lessons/mod-501-technical-strategy/exercises/exercise-04-roadmap.md",
+          "required_artifacts": [
+            "SOLUTION.md",
+            "STEP_BY_STEP.md",
+            "README.md"
+          ],
+          "slug": "roadmap",
+          "status": "ok",
+          "title": "Exercise 04-roadmap"
+        },
+        {
+          "exercise_id": "exercise-05",
+          "expected_solution_dir": "modules/mod-501-technical-strategy/exercise-05",
+          "found_artifact": "modules/mod-501-technical-strategy/exercise-05/README.md",
+          "gaps": [],
+          "learning_path": "lessons/mod-501-technical-strategy/exercises/exercise-05-presentation.md",
+          "required_artifacts": [
+            "SOLUTION.md",
+            "STEP_BY_STEP.md",
+            "README.md"
+          ],
+          "slug": "presentation",
+          "status": "ok",
+          "title": "Exercise 05-presentation"
+        }
+      ],
+      "gaps": [],
+      "has_module_rationale": true,
+      "learning_path": "lessons/mod-501-technical-strategy",
+      "missing_solution_count": 0,
+      "module_id": "mod-501-technical-strategy",
+      "module_rationale_only_count": 0,
+      "module_rationale_path": "modules/mod-501-technical-strategy/SOLUTION.md",
+      "solution_path": "modules/mod-501-technical-strategy",
+      "status": "ok"
+    },
+    {
+      "exercise_count": 5,
+      "exercises": [
+        {
+          "exercise_id": "exercise-01",
+          "expected_solution_dir": "modules/mod-502-mentorship-leadership/exercise-01",
+          "found_artifact": "modules/mod-502-mentorship-leadership/exercise-01/README.md",
+          "gaps": [],
+          "learning_path": "lessons/mod-502-mentorship-leadership/exercises/exercise-01-case-study.md",
+          "required_artifacts": [
+            "SOLUTION.md",
+            "STEP_BY_STEP.md",
+            "README.md"
+          ],
+          "slug": "case-study",
+          "status": "ok",
+          "title": "Exercise 01-case-study"
+        },
+        {
+          "exercise_id": "exercise-02",
+          "expected_solution_dir": "modules/mod-502-mentorship-leadership/exercise-02",
+          "found_artifact": "modules/mod-502-mentorship-leadership/exercise-02/README.md",
+          "gaps": [],
+          "learning_path": "lessons/mod-502-mentorship-leadership/exercises/exercise-02-strategy-memo.md",
+          "required_artifacts": [
+            "SOLUTION.md",
+            "STEP_BY_STEP.md",
+            "README.md"
+          ],
+          "slug": "strategy-memo",
+          "status": "ok",
+          "title": "Exercise 02-strategy-memo"
+        },
+        {
+          "exercise_id": "exercise-03",
+          "expected_solution_dir": "modules/mod-502-mentorship-leadership/exercise-03",
+          "found_artifact": "modules/mod-502-mentorship-leadership/exercise-03/README.md",
+          "gaps": [],
+          "learning_path": "lessons/mod-502-mentorship-leadership/exercises/exercise-03-stakeholder-mapping.md",
+          "required_artifacts": [
+            "SOLUTION.md",
+            "STEP_BY_STEP.md",
+            "README.md"
+          ],
+          "slug": "stakeholder-mapping",
+          "status": "ok",
+          "title": "Exercise 03-stakeholder-mapping"
+        },
+        {
+          "exercise_id": "exercise-04",
+          "expected_solution_dir": "modules/mod-502-mentorship-leadership/exercise-04",
+          "found_artifact": "modules/mod-502-mentorship-leadership/exercise-04/README.md",
+          "gaps": [],
+          "learning_path": "lessons/mod-502-mentorship-leadership/exercises/exercise-04-roadmap.md",
+          "required_artifacts": [
+            "SOLUTION.md",
+            "STEP_BY_STEP.md",
+            "README.md"
+          ],
+          "slug": "roadmap",
+          "status": "ok",
+          "title": "Exercise 04-roadmap"
+        },
+        {
+          "exercise_id": "exercise-05",
+          "expected_solution_dir": "modules/mod-502-mentorship-leadership/exercise-05",
+          "found_artifact": "modules/mod-502-mentorship-leadership/exercise-05/README.md",
+          "gaps": [],
+          "learning_path": "lessons/mod-502-mentorship-leadership/exercises/exercise-05-presentation.md",
+          "required_artifacts": [
+            "SOLUTION.md",
+            "STEP_BY_STEP.md",
+            "README.md"
+          ],
+          "slug": "presentation",
+          "status": "ok",
+          "title": "Exercise 05-presentation"
+        }
+      ],
+      "gaps": [],
+      "has_module_rationale": true,
+      "learning_path": "lessons/mod-502-mentorship-leadership",
+      "missing_solution_count": 0,
+      "module_id": "mod-502-mentorship-leadership",
+      "module_rationale_only_count": 0,
+      "module_rationale_path": "modules/mod-502-mentorship-leadership/SOLUTION.md",
+      "solution_path": "modules/mod-502-mentorship-leadership",
+      "status": "ok"
+    },
+    {
+      "exercise_count": 5,
+      "exercises": [
+        {
+          "exercise_id": "exercise-01",
+          "expected_solution_dir": "modules/mod-503-cross-org-initiative/exercise-01",
+          "found_artifact": "modules/mod-503-cross-org-initiative/exercise-01/README.md",
+          "gaps": [],
+          "learning_path": "lessons/mod-503-cross-org-initiative/exercises/exercise-01-case-study.md",
+          "required_artifacts": [
+            "SOLUTION.md",
+            "STEP_BY_STEP.md",
+            "README.md"
+          ],
+          "slug": "case-study",
+          "status": "ok",
+          "title": "Exercise 01-case-study"
+        },
+        {
+          "exercise_id": "exercise-02",
+          "expected_solution_dir": "modules/mod-503-cross-org-initiative/exercise-02",
+          "found_artifact": "modules/mod-503-cross-org-initiative/exercise-02/README.md",
+          "gaps": [],
+          "learning_path": "lessons/mod-503-cross-org-initiative/exercises/exercise-02-strategy-memo.md",
+          "required_artifacts": [
+            "SOLUTION.md",
+            "STEP_BY_STEP.md",
+            "README.md"
+          ],
+          "slug": "strategy-memo",
+          "status": "ok",
+          "title": "Exercise 02-strategy-memo"
+        },
+        {
+          "exercise_id": "exercise-03",
+          "expected_solution_dir": "modules/mod-503-cross-org-initiative/exercise-03",
+          "found_artifact": "modules/mod-503-cross-org-initiative/exercise-03/README.md",
+          "gaps": [],
+          "learning_path": "lessons/mod-503-cross-org-initiative/exercises/exercise-03-stakeholder-mapping.md",
+          "required_artifacts": [
+            "SOLUTION.md",
+            "STEP_BY_STEP.md",
+            "README.md"
+          ],
+          "slug": "stakeholder-mapping",
+          "status": "ok",
+          "title": "Exercise 03-stakeholder-mapping"
+        },
+        {
+          "exercise_id": "exercise-04",
+          "expected_solution_dir": "modules/mod-503-cross-org-initiative/exercise-04",
+          "found_artifact": "modules/mod-503-cross-org-initiative/exercise-04/README.md",
+          "gaps": [],
+          "learning_path": "lessons/mod-503-cross-org-initiative/exercises/exercise-04-roadmap.md",
+          "required_artifacts": [
+            "SOLUTION.md",
+            "STEP_BY_STEP.md",
+            "README.md"
+          ],
+          "slug": "roadmap",
+          "status": "ok",
+          "title": "Exercise 04-roadmap"
+        },
+        {
+          "exercise_id": "exercise-05",
+          "expected_solution_dir": "modules/mod-503-cross-org-initiative/exercise-05",
+          "found_artifact": "modules/mod-503-cross-org-initiative/exercise-05/README.md",
+          "gaps": [],
+          "learning_path": "lessons/mod-503-cross-org-initiative/exercises/exercise-05-presentation.md",
+          "required_artifacts": [
+            "SOLUTION.md",
+            "STEP_BY_STEP.md",
+            "README.md"
+          ],
+          "slug": "presentation",
+          "status": "ok",
+          "title": "Exercise 05-presentation"
+        }
+      ],
+      "gaps": [],
+      "has_module_rationale": true,
+      "learning_path": "lessons/mod-503-cross-org-initiative",
+      "missing_solution_count": 0,
+      "module_id": "mod-503-cross-org-initiative",
+      "module_rationale_only_count": 0,
+      "module_rationale_path": "modules/mod-503-cross-org-initiative/SOLUTION.md",
+      "solution_path": "modules/mod-503-cross-org-initiative",
+      "status": "ok"
+    },
+    {
+      "exercise_count": 5,
+      "exercises": [
+        {
+          "exercise_id": "exercise-01",
+          "expected_solution_dir": "modules/mod-504-open-source-community/exercise-01",
+          "found_artifact": "modules/mod-504-open-source-community/exercise-01/README.md",
+          "gaps": [],
+          "learning_path": "lessons/mod-504-open-source-community/exercises/exercise-01-case-study.md",
+          "required_artifacts": [
+            "SOLUTION.md",
+            "STEP_BY_STEP.md",
+            "README.md"
+          ],
+          "slug": "case-study",
+          "status": "ok",
+          "title": "Exercise 01-case-study"
+        },
+        {
+          "exercise_id": "exercise-02",
+          "expected_solution_dir": "modules/mod-504-open-source-community/exercise-02",
+          "found_artifact": "modules/mod-504-open-source-community/exercise-02/README.md",
+          "gaps": [],
+          "learning_path": "lessons/mod-504-open-source-community/exercises/exercise-02-strategy-memo.md",
+          "required_artifacts": [
+            "SOLUTION.md",
+            "STEP_BY_STEP.md",
+            "README.md"
+          ],
+          "slug": "strategy-memo",
+          "status": "ok",
+          "title": "Exercise 02-strategy-memo"
+        },
+        {
+          "exercise_id": "exercise-03",
+          "expected_solution_dir": "modules/mod-504-open-source-community/exercise-03",
+          "found_artifact": "modules/mod-504-open-source-community/exercise-03/README.md",
+          "gaps": [],
+          "learning_path": "lessons/mod-504-open-source-community/exercises/exercise-03-stakeholder-mapping.md",
+          "required_artifacts": [
+            "SOLUTION.md",
+            "STEP_BY_STEP.md",
+            "README.md"
+          ],
+          "slug": "stakeholder-mapping",
+          "status": "ok",
+          "title": "Exercise 03-stakeholder-mapping"
+        },
+        {
+          "exercise_id": "exercise-04",
+          "expected_solution_dir": "modules/mod-504-open-source-community/exercise-04",
+          "found_artifact": "modules/mod-504-open-source-community/exercise-04/README.md",
+          "gaps": [],
+          "learning_path": "lessons/mod-504-open-source-community/exercises/exercise-04-roadmap.md",
+          "required_artifacts": [
+            "SOLUTION.md",
+            "STEP_BY_STEP.md",
+            "README.md"
+          ],
+          "slug": "roadmap",
+          "status": "ok",
+          "title": "Exercise 04-roadmap"
+        },
+        {
+          "exercise_id": "exercise-05",
+          "expected_solution_dir": "modules/mod-504-open-source-community/exercise-05",
+          "found_artifact": "modules/mod-504-open-source-community/exercise-05/README.md",
+          "gaps": [],
+          "learning_path": "lessons/mod-504-open-source-community/exercises/exercise-05-presentation.md",
+          "required_artifacts": [
+            "SOLUTION.md",
+            "STEP_BY_STEP.md",
+            "README.md"
+          ],
+          "slug": "presentation",
+          "status": "ok",
+          "title": "Exercise 05-presentation"
+        }
+      ],
+      "gaps": [],
+      "has_module_rationale": true,
+      "learning_path": "lessons/mod-504-open-source-community",
+      "missing_solution_count": 0,
+      "module_id": "mod-504-open-source-community",
+      "module_rationale_only_count": 0,
+      "module_rationale_path": "modules/mod-504-open-source-community/SOLUTION.md",
+      "solution_path": "modules/mod-504-open-source-community",
+      "status": "ok"
+    },
+    {
+      "exercise_count": 5,
+      "exercises": [
+        {
+          "exercise_id": "exercise-01",
+          "expected_solution_dir": "modules/mod-505-long-term-technical-bets/exercise-01",
+          "found_artifact": "modules/mod-505-long-term-technical-bets/exercise-01/README.md",
+          "gaps": [],
+          "learning_path": "lessons/mod-505-long-term-technical-bets/exercises/exercise-01-case-study.md",
+          "required_artifacts": [
+            "SOLUTION.md",
+            "STEP_BY_STEP.md",
+            "README.md"
+          ],
+          "slug": "case-study",
+          "status": "ok",
+          "title": "Exercise 01-case-study"
+        },
+        {
+          "exercise_id": "exercise-02",
+          "expected_solution_dir": "modules/mod-505-long-term-technical-bets/exercise-02",
+          "found_artifact": "modules/mod-505-long-term-technical-bets/exercise-02/README.md",
+          "gaps": [],
+          "learning_path": "lessons/mod-505-long-term-technical-bets/exercises/exercise-02-strategy-memo.md",
+          "required_artifacts": [
+            "SOLUTION.md",
+            "STEP_BY_STEP.md",
+            "README.md"
+          ],
+          "slug": "strategy-memo",
+          "status": "ok",
+          "title": "Exercise 02-strategy-memo"
+        },
+        {
+          "exercise_id": "exercise-03",
+          "expected_solution_dir": "modules/mod-505-long-term-technical-bets/exercise-03",
+          "found_artifact": "modules/mod-505-long-term-technical-bets/exercise-03/README.md",
+          "gaps": [],
+          "learning_path": "lessons/mod-505-long-term-technical-bets/exercises/exercise-03-stakeholder-mapping.md",
+          "required_artifacts": [
+            "SOLUTION.md",
+            "STEP_BY_STEP.md",
+            "README.md"
+          ],
+          "slug": "stakeholder-mapping",
+          "status": "ok",
+          "title": "Exercise 03-stakeholder-mapping"
+        },
+        {
+          "exercise_id": "exercise-04",
+          "expected_solution_dir": "modules/mod-505-long-term-technical-bets/exercise-04",
+          "found_artifact": "modules/mod-505-long-term-technical-bets/exercise-04/README.md",
+          "gaps": [],
+          "learning_path": "lessons/mod-505-long-term-technical-bets/exercises/exercise-04-roadmap.md",
+          "required_artifacts": [
+            "SOLUTION.md",
+            "STEP_BY_STEP.md",
+            "README.md"
+          ],
+          "slug": "roadmap",
+          "status": "ok",
+          "title": "Exercise 04-roadmap"
+        },
+        {
+          "exercise_id": "exercise-05",
+          "expected_solution_dir": "modules/mod-505-long-term-technical-bets/exercise-05",
+          "found_artifact": "modules/mod-505-long-term-technical-bets/exercise-05/README.md",
+          "gaps": [],
+          "learning_path": "lessons/mod-505-long-term-technical-bets/exercises/exercise-05-presentation.md",
+          "required_artifacts": [
+            "SOLUTION.md",
+            "STEP_BY_STEP.md",
+            "README.md"
+          ],
+          "slug": "presentation",
+          "status": "ok",
+          "title": "Exercise 05-presentation"
+        }
+      ],
+      "gaps": [],
+      "has_module_rationale": true,
+      "learning_path": "lessons/mod-505-long-term-technical-bets",
+      "missing_solution_count": 0,
+      "module_id": "mod-505-long-term-technical-bets",
+      "module_rationale_only_count": 0,
+      "module_rationale_path": "modules/mod-505-long-term-technical-bets/SOLUTION.md",
+      "solution_path": "modules/mod-505-long-term-technical-bets",
+      "status": "ok"
+    }
+  ],
+  "paired_repo": {
+    "has_git": true,
+    "kind": "learning",
+    "name": "ai-infra-principal-engineer-learning",
+    "path": "/home/rook/ai-infra-curriculum/ai-infra-principal-engineer-learning",
+    "track": "principal-engineer"
+  },
+  "projects": [
+    {
+      "found_artifact": null,
+      "gaps": [
+        {
+          "expected_path": "projects/project-01-distributed-training",
+          "learning_path": "projects/project-01-distributed-training",
+          "message": "Missing solution project directory for project-01-distributed-training.",
+          "project_id": "project-01-distributed-training",
+          "severity": "error",
+          "type": "missing_solution_project"
+        }
+      ],
+      "learning_path": "projects/project-01-distributed-training",
+      "project_id": "project-01-distributed-training",
+      "solution_path": null,
+      "status": "gap",
+      "title": "Project 01: Company-Wide Distributed Training Framework"
+    },
+    {
+      "found_artifact": null,
+      "gaps": [
+        {
+          "expected_path": "projects/project-02-platform-integration",
+          "learning_path": "projects/project-02-platform-integration",
+          "message": "Missing solution project directory for project-02-platform-integration.",
+          "project_id": "project-02-platform-integration",
+          "severity": "error",
+          "type": "missing_solution_project"
+        }
+      ],
+      "learning_path": "projects/project-02-platform-integration",
+      "project_id": "project-02-platform-integration",
+      "solution_path": null,
+      "status": "gap",
+      "title": "Project 02: Cross-Team Platform Integration"
+    },
+    {
+      "found_artifact": null,
+      "gaps": [
+        {
+          "expected_path": "projects/project-03-performance-optimization",
+          "learning_path": "projects/project-03-performance-optimization",
+          "message": "Missing solution project directory for project-03-performance-optimization.",
+          "project_id": "project-03-performance-optimization",
+          "severity": "error",
+          "type": "missing_solution_project"
+        }
+      ],
+      "learning_path": "projects/project-03-performance-optimization",
+      "project_id": "project-03-performance-optimization",
+      "solution_path": null,
+      "status": "gap",
+      "title": "Project 03: Performance Optimization Initiative"
+    },
+    {
+      "found_artifact": "projects/project-04-innovation-poc/SOLUTION.md",
+      "gaps": [],
+      "learning_path": "projects/project-04-innovation-poc",
+      "project_id": "project-04-innovation-poc",
+      "solution_path": "projects/project-04-innovation-poc",
+      "status": "ok",
+      "title": "Project 04: Technical Innovation POC"
+    },
+    {
+      "found_artifact": null,
+      "gaps": [
+        {
+          "expected_path": "projects/project-05-technical-leadership",
+          "learning_path": "projects/project-05-technical-leadership",
+          "message": "Missing solution project directory for project-05-technical-leadership.",
+          "project_id": "project-05-technical-leadership",
+          "severity": "error",
+          "type": "missing_solution_project"
+        }
+      ],
+      "learning_path": "projects/project-05-technical-leadership",
+      "project_id": "project-05-technical-leadership",
+      "solution_path": null,
+      "status": "gap",
+      "title": "Project 05: Technical Leadership Capstone"
+    }
+  ],
+  "repo": {
+    "has_git": true,
+    "kind": "solutions",
+    "name": "ai-infra-principal-engineer-solutions",
+    "path": "/home/rook/ai-infra-curriculum/ai-infra-principal-engineer-solutions",
+    "track": "principal-engineer"
+  },
+  "schema_version": 2,
+  "source_policy": {
+    "official_first": true,
+    "practitioner_reference_note": "VeriSwarm sources may be used only as practitioner implementation references, not standards authorities.",
+    "registry_last_verified": "2026-05-24"
+  },
+  "summary": {
+    "error_count": 4,
+    "gap_count": 4,
+    "module_count": 5,
+    "project_count": 5,
+    "status": "fail",
+    "warning_count": 0
+  },
+  "workspace": "/home/rook/ai-infra-curriculum"
+}
