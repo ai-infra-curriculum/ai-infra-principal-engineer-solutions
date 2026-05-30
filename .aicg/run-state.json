@@ -1,15 +1,15 @@
 {
-  "command": "/home/rook/ai-infra-curriculum/ai-infra-content-generator/scripts/run-claude-content.sh --model claude-opus-4-7 --prompt /home/rook/ai-infra-curriculum/ai-infra-principal-engineer-solutions/.aicg/prompts/fill-project-04-innovation-poc-solution.md --output-dir /home/rook/ai-infra-curriculum/ai-infra-principal-engineer-solutions/.aicg/generated/fill-project-04-innovation-poc-solution --repo /home/rook/ai-infra-curriculum/ai-infra-principal-engineer-solutions --work-id fill-project-04-innovation-poc-solution",
+  "command": "/home/rook/ai-infra-curriculum/ai-infra-content-generator/scripts/run-claude-content.sh --model claude-opus-4-7 --prompt /home/rook/ai-infra-curriculum/ai-infra-principal-engineer-solutions/.aicg/prompts/fill-project-01-distributed-training-solution.md --output-dir /home/rook/ai-infra-curriculum/ai-infra-principal-engineer-solutions/.aicg/generated/fill-project-01-distributed-training-solution --repo /home/rook/ai-infra-curriculum/ai-infra-principal-engineer-solutions --work-id fill-project-01-distributed-training-solution",
   "limit_pattern_unmatched": false,
-  "output_dir": "/home/rook/ai-infra-curriculum/ai-infra-principal-engineer-solutions/.aicg/generated/fill-project-04-innovation-poc-solution",
-  "prompt_path": "/home/rook/ai-infra-curriculum/ai-infra-principal-engineer-solutions/.aicg/prompts/fill-project-04-innovation-poc-solution.md",
+  "output_dir": "/home/rook/ai-infra-curriculum/ai-infra-principal-engineer-solutions/.aicg/generated/fill-project-01-distributed-training-solution",
+  "prompt_path": "/home/rook/ai-infra-curriculum/ai-infra-principal-engineer-solutions/.aicg/prompts/fill-project-01-distributed-training-solution.md",
   "repo": "ai-infra-principal-engineer-solutions",
   "returncode": 0,
   "schema_version": 1,
   "status": "verified",
   "stderr": "",
   "stdout": "",
-  "updated_at": "2026-05-30T22:04:23Z",
-  "verified_at": "2026-05-30T22:04:52Z",
-  "work_id": "fill-project-04-innovation-poc-solution"
+  "updated_at": "2026-05-30T19:07:03Z",
+  "verified_at": "2026-05-30T19:08:03Z",
+  "work_id": "fill-project-01-distributed-training-solution"
 }

@@ -9,4 +9,4 @@ Auto-appended by the AICG runner. One row per verified work item. Edit the rest 
 
 | Date | Work ID | Scope | Title |
 |---|---|---|---|
-| 2026-05-30 | `fill-project-04-innovation-poc-solution` | `project-04-innovation-poc` | Author solution artifact for project-04-innovation-poc |
+| 2026-05-30 | `fill-project-01-distributed-training-solution` | `project-01-distributed-training` | Author solution artifact for project-01-distributed-training |

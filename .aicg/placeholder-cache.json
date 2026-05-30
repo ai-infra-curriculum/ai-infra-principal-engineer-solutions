@@ -12,8 +12,8 @@
     },
     "CURRICULUM.md": {
       "findings": [],
-      "mtime_ns": 1780178692525870182,
-      "size": 470
+      "mtime_ns": 1780168083651597101,
+      "size": 488
     },
     "LEARNING_GUIDE.md": {
       "findings": [],
@@ -37,8 +37,8 @@
     },
     "VERSIONS.md": {
       "findings": [],
-      "mtime_ns": 1780178692521870206,
-      "size": 223
+      "mtime_ns": 1780168083651597101,
+      "size": 241
     },
     "guides/README.md": {
       "findings": [],
@@ -230,10 +230,10 @@
       "mtime_ns": 1780083792786189567,
       "size": 64
     },
-    "projects/project-04-innovation-poc/SOLUTION.md": {
+    "projects/project-01-distributed-training/SOLUTION.md": {
       "findings": [],
-      "mtime_ns": 1780178686753904208,
-      "size": 18061
+      "mtime_ns": 1780168079227622193,
+      "size": 45488
     },
     "resources/README.md": {
       "findings": [],
@@ -241,6 +241,6 @@
       "size": 85
     }
   },
-  "generated_at": "2026-05-30T22:04:52Z",
+  "generated_at": "2026-05-30T19:08:03Z",
   "schema_version": 1
 }

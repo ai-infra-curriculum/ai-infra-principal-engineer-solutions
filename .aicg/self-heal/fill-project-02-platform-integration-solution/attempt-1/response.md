@@ -1,0 +1,1 @@
+Removed the `needs-research:` marker in `projects/project-02-platform-integration/SOLUTION.md:11` by rewording the HTML comment as a plain "Authoring note" — the same caveat (split into per-exercise files if the learning repo enumerates sub-deliverables) is preserved without the marker keyword. No other files touched.
