@@ -3,6 +3,12 @@
 - Paired: ai-infra-principal-engineer-learning
 - modules/ + projects/
 
+## Modules
+
+| Slug | Path |
+|---|---|
+| mod-501-technical-strategy | [modules/mod-501-technical-strategy](modules/mod-501-technical-strategy) |
+
 ## Shipped (autonomous)
 
 Auto-appended by the AICG runner. One row per verified work item. Edit the rest of the document by hand; this section is additive only.
