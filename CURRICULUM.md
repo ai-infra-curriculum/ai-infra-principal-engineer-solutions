@@ -8,6 +8,7 @@
 | Slug | Path |
 |---|---|
 | mod-501-technical-strategy | [modules/mod-501-technical-strategy](modules/mod-501-technical-strategy) |
+| mod-502-mentorship-leadership | [modules/mod-502-mentorship-leadership](modules/mod-502-mentorship-leadership) |
 
 ## Shipped (autonomous)
 
