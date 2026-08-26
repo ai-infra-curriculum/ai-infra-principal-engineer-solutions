@@ -11,6 +11,7 @@
 | mod-502-mentorship-leadership | [modules/mod-502-mentorship-leadership](modules/mod-502-mentorship-leadership) |
 | mod-503-cross-org-initiative | [modules/mod-503-cross-org-initiative](modules/mod-503-cross-org-initiative) |
 | mod-504-open-source-community | [modules/mod-504-open-source-community](modules/mod-504-open-source-community) |
+| mod-505-long-term-technical-bets | [modules/mod-505-long-term-technical-bets](modules/mod-505-long-term-technical-bets) |
 
 ## Shipped (autonomous)
 
