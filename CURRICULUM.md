@@ -10,6 +10,7 @@
 | mod-501-technical-strategy | [modules/mod-501-technical-strategy](modules/mod-501-technical-strategy) |
 | mod-502-mentorship-leadership | [modules/mod-502-mentorship-leadership](modules/mod-502-mentorship-leadership) |
 | mod-503-cross-org-initiative | [modules/mod-503-cross-org-initiative](modules/mod-503-cross-org-initiative) |
+| mod-504-open-source-community | [modules/mod-504-open-source-community](modules/mod-504-open-source-community) |
 
 ## Shipped (autonomous)
 
