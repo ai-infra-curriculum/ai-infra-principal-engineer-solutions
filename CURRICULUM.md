@@ -13,6 +13,12 @@
 | mod-504-open-source-community | [modules/mod-504-open-source-community](modules/mod-504-open-source-community) |
 | mod-505-long-term-technical-bets | [modules/mod-505-long-term-technical-bets](modules/mod-505-long-term-technical-bets) |
 
+## Projects
+
+| Slug | Path |
+|---|---|
+| project-02-platform-integration | [projects/project-02-platform-integration](projects/project-02-platform-integration) |
+
 ## Shipped (autonomous)
 
 Auto-appended by the AICG runner. One row per verified work item. Edit the rest of the document by hand; this section is additive only.
