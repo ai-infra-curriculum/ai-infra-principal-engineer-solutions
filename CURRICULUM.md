@@ -18,6 +18,7 @@
 | Slug | Path |
 |---|---|
 | project-02-platform-integration | [projects/project-02-platform-integration](projects/project-02-platform-integration) |
+| project-03-performance-optimization | [projects/project-03-performance-optimization](projects/project-03-performance-optimization) |
 
 ## Shipped (autonomous)
 
