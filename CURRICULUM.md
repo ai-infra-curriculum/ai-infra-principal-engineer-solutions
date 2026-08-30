@@ -19,6 +19,7 @@
 |---|---|
 | project-02-platform-integration | [projects/project-02-platform-integration](projects/project-02-platform-integration) |
 | project-03-performance-optimization | [projects/project-03-performance-optimization](projects/project-03-performance-optimization) |
+| project-04-innovation-poc | [projects/project-04-innovation-poc](projects/project-04-innovation-poc) |
 
 ## Shipped (autonomous)
 
