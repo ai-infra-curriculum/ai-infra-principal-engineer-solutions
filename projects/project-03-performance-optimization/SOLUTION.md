@@ -159,7 +159,7 @@ of writing:
   on long sequences and on H100/H200 where FA3's TMA + WGMMA
   use is leveraged.
 - **FP8 weights + activations** via NVIDIA's
-  [Transformer Engine](https://docs.nvidia.com/deeplearning/transformer-engine/user-guide/index.html).
+  [Transformer Engine](http://web.archive.org/web/20260808010303/https://docs.nvidia.com/deeplearning/transformer-engine/user-guide/index.html).
   Wins on H100/H200 where FP8 is hardware-accelerated; not on
   A100.
 - **Weight-only quantization** for inference where the bottleneck
@@ -579,7 +579,7 @@ papers — the source set this solution is written against.
 - Shah et al., *FlashAttention-3*, 2024 —
   <https://arxiv.org/abs/2407.08608>
 - NVIDIA Transformer Engine —
-  <https://docs.nvidia.com/deeplearning/transformer-engine/user-guide/index.html>
+  <http://web.archive.org/web/20260808010303/https://docs.nvidia.com/deeplearning/transformer-engine/user-guide/index.html>
 - Triton language tutorials —
   <https://triton-lang.org/main/getting-started/tutorials/index.html>
 - Lin et al., *AWQ*, 2023 —
