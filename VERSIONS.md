@@ -1,5 +1,12 @@
 # Versions
 
+## 2026-11
+
+| Date | Work ID | Scope | Title |
+|---|---|---|---|
+| 2026-11-18 | `fill-mod-501-technical-strategy-solutions` | `mod-501-technical-strategy` | Fill mod-501-technical-strategy module exercise solutions |
+
+
 ## 2026-05
 
 | Date | Work ID | Scope | Title |
