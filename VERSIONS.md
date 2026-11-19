@@ -1,5 +1,12 @@
 # Versions
 
+## 2026-11
+
+| Date | Work ID | Scope | Title |
+|---|---|---|---|
+| 2026-11-18 | `fill-mod-504-open-source-community-solutions` | `mod-504-open-source-community` | Fill mod-504-open-source-community module exercise solutions |
+
+
 ## 2026-05
 
 | Date | Work ID | Scope | Title |
